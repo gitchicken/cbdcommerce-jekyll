@@ -91,6 +91,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2017-04-01-post-01.md
 - _posts/2017-04-08-post-08.md
 - _posts/2017-04-07-post-07.md
 - _posts/2017-04-06-post-06.md
@@ -98,4 +99,3 @@ pages:
 - _posts/2017-04-04-post-04.md
 - _posts/2017-04-03-post-03.md
 - _posts/2017-04-02-post-02.md
-- _posts/2017-04-01-post-01.md
