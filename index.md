@@ -19,7 +19,7 @@ sections:
   - title: Corporate Design and Product Branding
     icon:
       enabled: true
-      icon: fa-drafting-compass
+      icon: fa-pencl
       style: style1
     description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
