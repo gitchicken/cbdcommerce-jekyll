@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 banner:
   title: WHAT ECOMMERCE PLATFORM IS BEST FOR YOU?
   subtitle: Though the end result may be the same, MAKING MONEY! Some eCommerce platforms
@@ -67,7 +67,6 @@ sections:
 layout: home
 menu:
   main:
-    title: Home
     weight: 1
 
 ---
