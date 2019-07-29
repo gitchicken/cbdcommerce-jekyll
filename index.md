@@ -19,7 +19,7 @@ sections:
   - title: Integer vitae consequat sed magna feugiat
     icon:
       enabled: true
-      icon: fa-area-chart
+      icon: fa-palette
       style: style1
     description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
