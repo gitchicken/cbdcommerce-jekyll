@@ -1,12 +1,13 @@
 ---
 about:
   enabled: true
-  title: Integer vitae sed feugiat
-  text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
+  title: ABOUT DIGITAL LOBOTOMY
+  text: Launched in Y2K, Digital Lobotomy began designing web sites for the music
+    industry. Over the decades we've watched the web change from being driven by Art
+    to eCommerce as the fundamental goal of a successful website.
   actions:
-  - label: Learn More
-    url: "/no-sidebar"
+  - label: Visit Digital Lobotomy
+    url: http://digitallobotomy.net
     is_primary: false
     is_scrolly: false
 contact_methods:
