@@ -37,7 +37,7 @@ sections:
   - title: Lacus ultricies sagittis mi dui dapibus
     icon:
       enabled: true
-      icon: fa-cube
+      icon: fa-credit-card
       style: style3
     description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
