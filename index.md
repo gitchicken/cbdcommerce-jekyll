@@ -47,7 +47,7 @@ sections:
   section_id: cta
   title: How Are We?
   actions:
-  - label: How it works
+  - label: Contact Us
     url: "/contact"
     is_primary: false
     is_scrolly: false
