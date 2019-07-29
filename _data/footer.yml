@@ -22,7 +22,7 @@ contact_methods:
     template: contact_with_text
     title: Phone
     icon: fa-phone
-    text: "(000) 000-0000"
+    text: 305-725-0948
   - type: contact_with_link
     template: contact_with_link
     title: Email
