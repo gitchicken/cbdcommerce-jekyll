@@ -34,7 +34,7 @@ sections:
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
       orci, consectetur in odio maximus felis.
-  - title: Lacus ultricies sagittis mi dui dapibus
+  - title: Incorporate The Best CBD Merchant Service
     icon:
       enabled: true
       icon: fa-credit-card
