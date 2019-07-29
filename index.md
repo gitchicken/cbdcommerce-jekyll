@@ -1,8 +1,10 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: WHAT ECOMMERCE PLATFORM IS BEST FOR YOU?
+  subtitle: Though the end result may be the same, MAKING MONEY! Some eCommerce platforms
+    can be overkill, while others not enough. Let us help you find the optimal solution
+    to make you profitable today, with the ability to expand tomorrow.
   actions:
   - label: Learn More
     url: "/no-sidebar"
