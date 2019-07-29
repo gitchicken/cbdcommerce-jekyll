@@ -2,9 +2,9 @@
 about:
   enabled: true
   title: ABOUT DIGITAL LOBOTOMY
-  text: Launched in Y2K, Digital Lobotomy began designing web sites for the music
-    industry. Over the decades we've watched the web change from being driven by Art
-    to eCommerce as the fundamental goal of a successful website.
+  text: 'Launched in Y2K, Digital Lobotomy began designing sites for the music industry.
+    Over the decades we''ve seen the internet shift from an artistic base to eCommerce
+    as the fundamental goal of a successful website. '
   actions:
   - label: Visit Digital Lobotomy
     url: http://digitallobotomy.net
