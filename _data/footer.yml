@@ -27,8 +27,8 @@ contact_methods:
     template: contact_with_link
     title: Email
     icon: fa-envelope-o
-    text: information@untitled.tld
-    url: "#"
+    text: gregg@digitallobotomy.net
+    url: mailto:gregg@digitallobotomy.net
 copyright:
   enabled: true
   text: "&copy; Digital Lobotomy Inc. &nbsp;"
