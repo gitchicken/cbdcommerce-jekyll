@@ -16,7 +16,7 @@ sections:
   template: features
   section_id: features
   features:
-  - title: Corporate Design and Product Branding
+  - title: Graphic Design, Corporate and Product Branding
     icon:
       enabled: true
       icon: fa-paint-brush
