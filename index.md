@@ -54,9 +54,9 @@ sections:
     is_primary: false
     is_scrolly: false
   text: Backed by Digital Lobotomy's 20 years of Web Development and eCommerce expertise,
-    CBDCommerce.us is here fill the needs of the rapidly growing CBD market. Our goal
-    is to help guide new businesses through the maze of software solutions and the
-    red tape associated with high risk merchant services.
+    CBDCommerce.us is here to fill the needs of the entrepreneurs joining th rapidly
+    growing CBD market. Our goal is to help guide new businesses through the maze
+    of software solutions and the red tape associated with high risk merchant services.
   component: cta.html
 - type: posts
   template: posts
