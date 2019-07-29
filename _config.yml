@@ -3,7 +3,7 @@ title: CBDCommerce.US
 baseurl: "/"
 permalink: "/:title/"
 landing_template: home
-palette: blue
+palette: green
 palettes:
   blue:
     sass:
