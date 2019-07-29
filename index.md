@@ -34,7 +34,7 @@ sections:
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
       orci, consectetur in odio maximus felis.
-  - title: Incorporate The Best CBD Merchant Service
+  - title: Incorporate The Best CBD Merchant Solution
     icon:
       enabled: true
       icon: fa-credit-card
