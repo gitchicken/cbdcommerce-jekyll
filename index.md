@@ -16,7 +16,7 @@ sections:
   template: features
   section_id: features
   features:
-  - title: Integer vitae consequat sed magna feugiat
+  - title: We Can Help You Brand Your Product
     icon:
       enabled: true
       icon: fa-palette
