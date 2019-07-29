@@ -61,8 +61,8 @@ sections:
 - type: posts
   template: posts
   section_id: posts
-  title: Convallis amet interdum
-  subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+  title: Blog Posts
+  subtitle: ''
   component: posts.html
 layout: home
 menu:
