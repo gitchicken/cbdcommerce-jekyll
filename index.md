@@ -16,7 +16,7 @@ sections:
   template: features
   section_id: features
   features:
-  - title: We Can Help You Brand Your Product
+  - title: Corporate Design and Product Branding
     icon:
       enabled: true
       icon: fa-palette
