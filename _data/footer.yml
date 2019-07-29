@@ -16,7 +16,11 @@ contact_methods:
     template: contact_with_text
     title: Address
     icon: fa-map-marker
-    text: "Untitled Corp  \n1234 Fictional Road  \nSuite 5432  \nNashville, TN 00000"
+    text: |-
+      CBDCommerce.US
+      c/o Digital Lobotomy Inc
+      1401 NE 24th St.
+      Wilton Manors, FL 33305
   methods_col2:
   - type: contact_with_text
     template: contact_with_text
