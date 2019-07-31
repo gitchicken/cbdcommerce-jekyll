@@ -7,7 +7,7 @@ content_img:
   enabled: true
   path: images/pic10.jpg
   url: "#"
-alt_img: images/pic02.jpg
+alt_img: "/images/post_static.jpg"
 sidebar:
   enabled: false
   side: left
