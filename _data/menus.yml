@@ -33,8 +33,3 @@ layouts:
   title: Left Sidebar
   url: "/left-sidebar"
   weight: 1
-main:
-- identifier: layouts
-  title: Page Layouts
-  url: "#"
-  weight: 2

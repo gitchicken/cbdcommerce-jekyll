@@ -65,8 +65,5 @@ sections:
   subtitle: ''
   component: posts.html
 layout: home
-menu:
-  main:
-    weight: 1
 
 ---
