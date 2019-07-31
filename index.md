@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: WHAT ECOMMERCE PLATFORM IS BEST CHOICE FOR YOUR BUSINESS MODEL?
+  title: WHAT ECOMMERCE PLATFORM IS BEST CHOICE FOR YOUR BUSINESS?
   subtitle: Though the end result may be the same, MAKING MONEY! Some eCommerce platforms
     can be overkill, while others not enough. Let us help you find the optimal solution
     to make you profitable today, with the ability to expand tomorrow.
