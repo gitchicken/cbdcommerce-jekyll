@@ -45,7 +45,7 @@ sections:
 - type: cta
   template: cta
   section_id: cta
-  title: How Are We?
+  title: Who Are We
   actions:
   - label: Contact Us
     url: "/contact"
