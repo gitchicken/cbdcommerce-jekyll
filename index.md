@@ -14,10 +14,9 @@ sections:
       enabled: true
       icon: fa-paint-brush
       style: style1
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: Need a graphic designer? Look no further! No programming is not all
+      we do and  we can help you with that ever you need; logos, packaging, branding,
+      you name it, we've done it and we here to make your vision a reality.
   - title: Choose The Optimal eCommerce System For Your Business
     icon:
       enabled: true
