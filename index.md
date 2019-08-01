@@ -31,10 +31,9 @@ sections:
       enabled: true
       icon: fa-credit-card
       style: style3
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: Find the right Merchant Provider for any business can be difficult.
+      Now add it the High Risk assessment that's been given to the CBD industry. Let's
+      us help you choose the perfect fit your business needs.
   component: features.html
 - type: cta
   template: cta
