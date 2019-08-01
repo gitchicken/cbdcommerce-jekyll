@@ -1,8 +1,8 @@
 ---
 title: Static Sites For eCommerce
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-excerpt: Lorem ipsum dolor sit amet interdum arcu pulvinar lorem ipsum sed feugiat
-  etiam sed magna adipiscing.
+subtitle: ''
+excerpt: The growing trend in the web industry is undoubtedly JAMStack and HeadlessCMS
+  systems. Come on in, let me tell you more.
 content_img:
   enabled: false
   path: images/pic10.jpg
