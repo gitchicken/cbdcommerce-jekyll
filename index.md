@@ -22,10 +22,10 @@ sections:
       enabled: true
       icon: fa-shopping-cart
       style: style2
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: Though the end result may be the same, TO MAKE MONEY! Some eCommerce
+      platforms can be overkill, while others are just not enough. Let us help you
+      find the optimal solution to make you profitable today, with the ability to
+      expand tomorrow.
   - title: Incorporate The Best CBD Merchant Solution
     icon:
       enabled: true
