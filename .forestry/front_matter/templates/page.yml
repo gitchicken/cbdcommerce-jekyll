@@ -64,8 +64,8 @@ fields:
     required: true
 pages:
 - terms.md
+- left-sidebar.md
+- no-sidebar.md
 - right-sidebar.md
 - privacy.md
-- no-sidebar.md
-- left-sidebar.md
 - contact.md
