@@ -91,7 +91,7 @@ fields:
   config:
     required: true
 pages:
-- _posts/2017-04-07-post-07.md
 - _posts/2017-04-04-post-04.md
+- _posts/2017-04-07-post-07.md
 - _posts/2017-04-06-post-06.md
 - _posts/2017-04-07-imperdiet-egestas.md
