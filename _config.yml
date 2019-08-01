@@ -1,6 +1,6 @@
 ---
 title: CBDCommerce.US
-baseurl: "/"
+baseurl: "https://cbdcommerce.us"
 permalink: "/:title/"
 landing_template: home
 palette: green
