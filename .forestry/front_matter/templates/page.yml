@@ -63,9 +63,9 @@ fields:
   config:
     required: true
 pages:
-- terms.md
-- left-sidebar.md
-- no-sidebar.md
-- right-sidebar.md
-- privacy.md
 - contact.md
+- privacy.md
+- right-sidebar.md
+- no-sidebar.md
+- left-sidebar.md
+- terms.md

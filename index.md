@@ -3,12 +3,7 @@ title: Home
 banner:
   title: WHAT ECOMMERCE PLATFORM IS BEST CHOICE FOR YOUR BUSINESS?
   subtitle: ''
-  actions:
-  - label: Learn More
-    url: "/no-sidebar"
-    is_primary: false
-    is_scrolly: false
-    is_huge: true
+  actions: []
 sections:
 - type: features
   template: features
