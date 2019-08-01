@@ -1,9 +1,10 @@
 ---
 title: Contact
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: Use the form below to send us an email and please tell us a little about
+  your project.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: "/images/dl_bizcard_2019_cbd.png"
   url: "#"
 sidebar:
   enabled: false
