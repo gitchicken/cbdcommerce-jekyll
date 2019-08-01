@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-  title: WHAT ECOMMERCE PLATFORM IS BEST CHOICE FOR YOUR BUSINESS?
+  title: LET US HELP YOU CHOOSE THE BEST ECOMMERCE PLATFORM FOR YOUR BUSINESS!
   subtitle: ''
   actions: []
 sections:
