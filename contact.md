@@ -12,5 +12,17 @@ sidebar:
 layout: page
 
 ---
+<form method="post" netlify>
 
-<input type="text" id="name" name="name"/>
+What's Your Name?
+<input type="text" id="name" name="name" placeholder="Name"/>
+
+What's Your Email Address?
+<input type="text" id="email" name="email" placeholder="Email"/>
+
+Tell us a little about you project ...
+<input type="text" id="name" name="name" placeholder="Project Info Here ..."/>
+
+<input name="submit" type="submit" value="Send Message Now">
+
+</form>
