@@ -14,15 +14,15 @@ layout: page
 ---
 <form method="post" netlify>
 
-What's Your Name?
+### What's Your Name?
 <input type="text" id="name" name="name" placeholder="Name"/>
-
-What's Your Email Address?
+<br>
+### What's Your Email Address?
 <input type="text" id="email" name="email" placeholder="Email"/>
-
-Tell us a little about you project ...
-<input type="text" id="name" name="name" placeholder="Project Info Here ..."/>
-
+<br>
+### Tell us a little about you project ...
+<textarea rows="3" col="100%">Project Info Here ...</textarea>
+<br>
 <input name="submit" type="submit" value="Send Message Now">
 
 </form>
