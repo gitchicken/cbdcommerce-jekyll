@@ -10,7 +10,13 @@ sidebar:
   enabled: false
   side: left
 layout: page
-
+- type: posts
+  template: posts
+  section_id: posts
+  title: Blog Posts
+  subtitle: ''
+  component: posts.html
+layout: home
 ---
 ### Dolore Amet Consequat
 
