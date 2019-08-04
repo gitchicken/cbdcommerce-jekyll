@@ -3,7 +3,7 @@ title: Contact
 subtitle: Use the form below to send us an email and please tell us a little about
   your project.
 content_img:
-  enabled: true
+  enabled: false
   path: "/images/dl_bizcard_2019_cbd.png"
   url: "#"
 sidebar:
