@@ -4,11 +4,6 @@ footer:
   title: Made with Stackbit
   url: https://www.stackbit.com
   weight: 1
-main:
-- identifier: layouts
-  title: Contact Us
-  url: "/contact"
-  weight: 1
 submenu:
 - identifier: normal7
   title: Option Four
