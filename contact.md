@@ -12,9 +12,8 @@ sidebar:
 layout: page
 menu:
   main:
-    identifier: layouts
-    title: Contact Us
     weight: 1
+    title: Contact Us
 
 ---
 <form name="Contact Form" method="post" netlify>
