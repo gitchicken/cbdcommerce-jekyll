@@ -91,6 +91,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/affiliate-programs-white-labeling.md
 - _posts/2017-04-07-post-07.md
 - _posts/2017-04-06-post-06.md
 - _posts/2017-04-07-imperdiet-egestas.md
