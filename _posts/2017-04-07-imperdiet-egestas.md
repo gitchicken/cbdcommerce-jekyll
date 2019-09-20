@@ -1,7 +1,7 @@
 ---
 title: Static Sites For eCommerce
-subtitle: The growing trend in the web industry is undoubtedly JAMStack and HeadlessCMS
-  systems.
+subtitle: The growing trend in the web industry is undoubtedly Static Sites w/ JAMStack
+  and HeadlessCMS systems.
 excerpt: The growing trend in the web industry is undoubtedly JAMStack and HeadlessCMS
   systems. Come on in, let me tell you more.
 content_img:
