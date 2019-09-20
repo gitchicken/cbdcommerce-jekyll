@@ -7,7 +7,7 @@ sidebar:
   side: left
   enabled: false
 layout: page
-title: Affiliate Programs / White Labeling
+title: Affiliates / White Labeling
 subtitle: "We've received many questions regarding various CBD programs being offered
   on the net and for good reason. Simply put, the majority of the CBD on the market
   is being sold and distributed that way. In fact, if you Google and skim through
