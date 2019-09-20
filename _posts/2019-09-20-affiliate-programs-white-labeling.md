@@ -7,7 +7,7 @@ sidebar:
   side: left
   enabled: false
 layout: page
-title: Affiliates / White Labeling
+title: Affiliate Programs / White Labeling
 subtitle: "We've received many questions regarding various CBD programs being offered
   on the net and for good reason. Simply put, the majority of the CBD on the market
   is being sold and distributed that way. In fact, if you Google and skim through
@@ -35,7 +35,9 @@ subtitle: "We've received many questions regarding various CBD programs being of
   names. The trick is to get the best rates, closest to the top of the pyramid, of
   a particular grower or co-op.\n\nWhite Labelling will cost you more to get started
   but in the end you will have a branded product to market to your hearts content. "
-excerpt: ''
+excerpt: 'We''ve received many questions regarding various CBD programs being offered
+  on the net and for good reason. Simply put, the majority of the CBD on the market
+  is being sold and distributed that way. '
 alt_img: "/images/affs.png"
 date: 2019-09-20 01:00:00 -0300
 show_in_home_posts: true
