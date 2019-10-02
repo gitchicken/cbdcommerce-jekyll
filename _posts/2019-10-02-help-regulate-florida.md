@@ -1,8 +1,8 @@
 ---
 content_img:
   url: "#"
-  enabled: true
-  path: "/images/RFlogo1280.png"
+  enabled: false
+  path: ''
 sidebar:
   side: left
   enabled: false
