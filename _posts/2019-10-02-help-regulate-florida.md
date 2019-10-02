@@ -17,11 +17,11 @@ subtitle: |-
 
   **How Can You Help?**
 
-  * Sign Our Petition
-  * Volunteer
-  * Donate
+  * [Sign Our Petition](https://powerforms.docusign.net/3648f1d9-7732-4610-913e-e4d966b51737?env=na3-eu1)
+  * [Volunteer](https://volunteers.regulateflorida.com/)
+  * [Donate](https://www.regulateflorida.com/donate)
 
-  [Click Here For More Info](https://www.regulateflorida.com)
+  [Click Here To Visit RegulateFlorida.com](https://regulateflorida.com)
 excerpt: Your help is urgently needed to change the laws in Florida. Our next step
   towards legalizing cannabis for adults in Florida is to qualify for Supreme Court
   review.
