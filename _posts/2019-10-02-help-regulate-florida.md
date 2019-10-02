@@ -9,7 +9,7 @@ sidebar:
 layout: page
 title: Help Regulate Florida
 subtitle: |-
-  **Why Regulate?**
+  **About Regulate Florida**
 
   The mission of Regulate Florida is to create a practical and enforceable framework for adult use of marijuana.
 
