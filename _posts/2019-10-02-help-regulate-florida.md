@@ -1,8 +1,8 @@
 ---
 content_img:
   url: "#"
-  enabled: true
-  path: "/images/regulate_fl.png"
+  enabled: false
+  path: ''
 sidebar:
   side: left
   enabled: false
